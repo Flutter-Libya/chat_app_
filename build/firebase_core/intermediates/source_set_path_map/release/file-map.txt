@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.3.2-0 /Users/ahmedabufayed/.gradle/caches/transforms-3/026de80ea9d0b63bfc94ec9a10c1d73c/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-1 /Users/ahmedabufayed/.gradle/caches/transforms-3/1141b72fb8be4e566e7814849b1aa3a2/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-2 /Users/ahmedabufayed/.gradle/caches/transforms-3/40ff8c014bc3b03149787e1d45a42dea/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-3 /Users/ahmedabufayed/.gradle/caches/transforms-3/a6362f1fb79a6245a27920bb99ff99c3/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-4 /Users/ahmedabufayed/.gradle/caches/transforms-3/ad3fb7e0e58165c0e3c87f8f0d79631f/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-5 /Users/ahmedabufayed/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /Users/ahmedabufayed/.pub-cache/hosted/pub.dev/firebase_core-2.13.0/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /Users/ahmedabufayed/.pub-cache/hosted/pub.dev/firebase_core-2.13.0/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_core/intermediates/merged_res/release

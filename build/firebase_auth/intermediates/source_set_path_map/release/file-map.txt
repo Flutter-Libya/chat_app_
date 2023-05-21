@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.3.2-0 /Users/ahmedabufayed/.gradle/caches/transforms-3/026de80ea9d0b63bfc94ec9a10c1d73c/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-1 /Users/ahmedabufayed/.gradle/caches/transforms-3/1141b72fb8be4e566e7814849b1aa3a2/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-2 /Users/ahmedabufayed/.gradle/caches/transforms-3/40ff8c014bc3b03149787e1d45a42dea/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-3 /Users/ahmedabufayed/.gradle/caches/transforms-3/8f31701e663a8c1514b353cc4d7239a2/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-4 /Users/ahmedabufayed/.gradle/caches/transforms-3/a6362f1fb79a6245a27920bb99ff99c3/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-5 /Users/ahmedabufayed/.gradle/caches/transforms-3/ad3fb7e0e58165c0e3c87f8f0d79631f/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-6 /Users/ahmedabufayed/.gradle/caches/transforms-3/c1463af6cb467bf02a2c891016443d37/transformed/browser-1.4.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-7 /Users/ahmedabufayed/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 /Users/ahmedabufayed/.pub-cache/hosted/pub.dev/firebase_auth-4.6.1/android/src/main/res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 /Users/ahmedabufayed/.pub-cache/hosted/pub.dev/firebase_auth-4.6.1/android/src/release/res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_auth/generated/res/pngs/release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_auth/generated/res/resValues/release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_auth/generated/res/rs/release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_auth/intermediates/merged_res/release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 /Users/ahmedabufayed/Desktop/chat_app/build/firebase_core/intermediates/packaged_res/release
