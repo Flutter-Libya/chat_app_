@@ -1,16 +1,27 @@
-# chat_app
+# Flutter Chat App
 
-A new Flutter project.
+This project is a chat application developed in Flutter using Firebase for authentication and data storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Registration
+- User Login
+- Real-time Messaging
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here are some screenshots of the application in action:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; justify-content: space-around;">
+  <img src="Screenshot_20230519_174825.png" width="200" alt="Screenshot 1" />
+  <img src="Screenshot_20230519_174834.png" width="200" alt="Screenshot 2" />
+  <img src="Screenshot_20230519_174838.png" width="200" alt="Screenshot 3" />
+  <img src="Screenshot_20230519_174841.png" width="200" alt="Screenshot 4" />
+</div>
+
+## Installation and Usage
+
+Firstly, clone this repository. Then navigate to the project's directory and run the following command to fetch the dependencies:
+
+```shell
+flutter pub get
